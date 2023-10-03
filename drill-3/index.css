@@ -1,0 +1,57 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #D8D8D8;
+    padding: 25px;
+    box-sizing: border-box;
+}
+
+section {
+    padding: 50px;
+    font-weight: bold;
+}
+
+.blue-square {
+    width: 75px;
+    height: 75px;
+    background-color: #5b8fdc;
+}
+
+.stripe {
+    height: 25vh;
+}
+
+.blue {
+    background-color: #5b8fdc;
+}
+
+.teal {
+    background-color: #7be0c3;
+}
+
+.green {
+    background-color: #c2e791;
+}
+
+.yellow {
+    background-color: #f5e752;
+}
+
+.get-help {
+    position: fixed;
+    right: 10px;
+    bottom: 10px;
+}
+
+.get-help button {
+    height: 60px;
+    width: 60px;
+    border: none;
+    border-radius: 50%;
+    background-color: #000000;
+    color: #FFFFFF;
+    font-size: 32px;
+}
